@@ -3,6 +3,7 @@
 This repository is for use by students on Day 2 of the 2023 INTERSECT Bootcamp,
 held in Princeton, NJ, July 10-14.
 
+Gary's made some changes here.
 This change has me feeling all conflcited.
 
 ## Funding
